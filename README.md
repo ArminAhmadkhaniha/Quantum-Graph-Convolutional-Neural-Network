@@ -47,7 +47,7 @@ This repository implements two different methodologies for the binary semi-super
 
 ## Switching Between Approaches
 
-To check my approach approaches, please run the following:
+To check my approach, please run the following:
    ```bash
    python train.py
    ```
