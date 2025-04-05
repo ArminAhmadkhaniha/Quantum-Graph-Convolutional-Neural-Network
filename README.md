@@ -1,4 +1,4 @@
-# Quantum Convolutional Graph Neural Network
+# Quantum Graph Convolutional Neural Network
 
 This repository contains the implementation of a Quantum Convolutional Graph Neural Network for node classification on citation networks. The code reproduces and extends the results reported in the paper by implementing two different approaches for node selection and classification.
 
